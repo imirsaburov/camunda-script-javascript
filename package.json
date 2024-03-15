@@ -1,0 +1,13 @@
+{
+  "name": "camunda-script-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Islom Mirsaburov",
+  "license": "ISC",
+  "dependencies": {
+    "zeebe-node": "^8.3.1"
+  }
+}
